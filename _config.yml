@@ -1,0 +1,12 @@
+# Site Settings
+title: "Your Name"
+name: "Your Full Name"
+description: "PhD Researcher in [Your Field]"
+url: "https://your-username.github.io"
+
+# About Section
+author:
+  name: "Your Name"
+  bio: "PhD researcher at IIT Gandhinagar working on [your research area]"
+  location: "Gandhinagar, Gujarat, India"
+  email: "your.email@iitgn.ac.in"
